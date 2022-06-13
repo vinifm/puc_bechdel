@@ -2,3 +2,6 @@ datasets/movie-dataset/*.csv
 *.csv
 +old/datasets/movie-dataset/*.csv
 +old/*.csv
+
+# vini
+.idea
