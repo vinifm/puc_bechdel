@@ -3,5 +3,10 @@ datasets/movie-dataset/*.csv
 +old/datasets/movie-dataset/*.csv
 +old/*.csv
 
-# vini
+# VINI
+# imagens
+*.png
+# pycharm
 .idea
+# macOS
+.DS_Store
