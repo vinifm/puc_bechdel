@@ -2,6 +2,7 @@ datasets/movie-dataset/*.csv
 *.csv
 +old/datasets/movie-dataset/*.csv
 +old/*.csv
+oscar/oscar-datasets/*.csv
 
 # VINI
 # imagens
