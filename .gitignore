@@ -5,6 +5,8 @@ datasets/movie-dataset/*.csv
 oscar/oscar-datasets/*.csv
 
 # VINI
+# venv
+.env_bechdel
 # imagens
 *.png
 # pycharm
